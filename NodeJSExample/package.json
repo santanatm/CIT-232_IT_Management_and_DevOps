@@ -1,0 +1,19 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "NodeJS  Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santanatm/CIT-232_IT_Management_and_DevOps.git"
+  },
+  "author": "Tadeo Santana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santanatm/CIT-232_IT_Management_and_DevOps/issues"
+  },
+  "homepage": "https://github.com/santanatm/CIT-232_IT_Management_and_DevOps#readme"
+}
