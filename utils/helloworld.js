@@ -3,3 +3,6 @@ export const sayHello = ()=> {
 };
 
 
+export const sendName = () => {
+    return "Hello";
+};
